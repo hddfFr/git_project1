@@ -136,7 +136,7 @@
      <attribute name="title">
       <string>Теория</string>
      </attribute>
-     <widget class="QLabel" name="label_2">
+     <widget class="QLabel" name="choose_lsn">
       <property name="geometry">
        <rect>
         <x>10</x>
@@ -157,7 +157,7 @@
        <string>Выберите урок:</string>
       </property>
      </widget>
-     <widget class="QPushButton" name="pushButton_5">
+     <widget class="QPushButton" name="places_th">
       <property name="geometry">
        <rect>
         <x>20</x>
@@ -170,7 +170,7 @@
        <string>Места</string>
       </property>
      </widget>
-     <widget class="QPushButton" name="pushButton_6">
+     <widget class="QPushButton" name="family_th">
       <property name="geometry">
        <rect>
         <x>20</x>
@@ -183,7 +183,7 @@
        <string>Семья</string>
       </property>
      </widget>
-     <widget class="QPushButton" name="pushButton_7">
+     <widget class="QPushButton" name="aqua_th">
       <property name="geometry">
        <rect>
         <x>20</x>
@@ -196,7 +196,7 @@
        <string>Знакомство</string>
       </property>
      </widget>
-     <widget class="QPushButton" name="pushButton_8">
+     <widget class="QPushButton" name="iamfrom_th">
       <property name="geometry">
        <rect>
         <x>20</x>
@@ -222,7 +222,7 @@
        <string>Основы</string>
       </property>
      </widget>
-     <widget class="QPushButton" name="pushButton_10">
+     <widget class="QPushButton" name="food_th">
       <property name="geometry">
        <rect>
         <x>20</x>
